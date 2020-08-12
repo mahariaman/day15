@@ -37,6 +37,9 @@ function psw(str) {
 }
 console.log(psw('Mah1'))
 console.log(psw('maha1'))
+console.log(psw('Maha'))
 console.log(psw('maha'))
+console.log(psw('111111'))
+console.log(psw('AAAAA'))
 console.log(psw(''))
 
